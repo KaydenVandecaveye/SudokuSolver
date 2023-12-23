@@ -36,7 +36,7 @@ This function is responsible for finding a point on the grid what is empty/has a
 <br />
 <br />
 solve function:<br/>
-This function is responsible for solving the sudoku grid through recursion. We first establish the base case  and then cycle through the function until the base case is fulfilled which means the sudoku grid is solved.<br/>
+This function is responsible for solving the sudoku grid through recursion. We first establish the base case and then iterate through the function until the base case is fulfilled which means the sudoku grid is solved.<br/>
 <br/>
 <img src="https://imgur.com/W9EBJUW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
